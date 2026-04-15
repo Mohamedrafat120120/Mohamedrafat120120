@@ -1,4 +1,4 @@
-[<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mohamedrafat120120.Mohamedrafat120120" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mohamedrafat120120.Mohamedrafat120120" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -16,12 +16,22 @@
     <img width="22" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
     GitHub
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/mohamed0_rafat/" title="Instagram Profile">
+    <img width="22" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+    Instagram
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/bebomhmed.biv/" title="Facebook Profile">
+    <img width="22" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />
+    Facebook
+  </a>
 </h5>
 
 <br />
 
 <p align="center">
-  Hi, I'm <strong>Mohamed Elbahy</strong>, a Backend Developer from Egypt 📍🇪🇬
+  Hi, I'm <strong>Mohamed Elbahy</strong>, a Backend Developer from Egypt 🇪🇬
   <br /><br />
   💻 Junior Software Engineer — Django & Node.js
   <br />
@@ -62,31 +72,37 @@
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <strong>🛒 E-Commerce REST API</strong>
+      <a href="https://github.com/Mohamedrafat120120/News-App">
+        <strong>📰 News App</strong>
+      </a>
       <br />
-      <sub>Full-featured backend with auth, payments & cart management</sub>
+      <sub>Browse & read the latest news from multiple sources</sub>
       <br /><br />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-    </td>
-    <td align="center" width="300">
-      <strong>💬 Real-Time Chat App</strong>
-      <br />
-      <sub>WebSocket-powered chat with rooms & private messaging</sub>
-      <br /><br />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white" />
     </td>
     <td align="center" width="300">
-      <strong>📋 Task Management System</strong>
+      <a href="https://github.com/Mohamedrafat120120/Salary_App">
+        <strong>💰 Salary App</strong>
+      </a>
       <br />
-      <sub>Kanban-style project tracker with team collaboration</sub>
+      <sub>Employee salary management & payroll calculation system</sub>
       <br /><br />
       <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/Mohamedrafat120120/Inventory-Management-API">
+        <strong>📦 Inventory Management API</strong>
+      </a>
+      <br />
+      <sub>REST API for managing products, stock & warehouse operations</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/DRF-red?style=flat&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -115,16 +131,23 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:mohamedrafat120120@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://github.com/Mohamedrafat120120">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/mohamed0_rafat/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/bebomhmed.biv/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:mohamedrafat120120@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <br />
 
 <h3 align="center">⭐ Always learning, always building ⭐</h3>
-](https://github.com/Mohamedrafat120120/Inventory-Management-API)
