@@ -21,7 +21,7 @@
 <br />
 
 <p align="center">
-  Hi, I'm <strong>Mohamed Elbahy</strong>, a Backend Developer from Egypt 🇪🇬
+  Hi, I'm <strong>Mohamed Elbahy</strong>, a Backend Developer from Egypt 📍🇪🇬
   <br /><br />
   💻 Junior Software Engineer — Django & Node.js
   <br />
