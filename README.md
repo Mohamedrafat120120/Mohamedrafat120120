@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mohamedrafat120120.Mohamedrafat120120" />
+[<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mohamedrafat120120.Mohamedrafat120120" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -127,3 +127,4 @@
 <br />
 
 <h3 align="center">⭐ Always learning, always building ⭐</h3>
+](https://github.com/Mohamedrafat120120/Inventory-Management-API)
