@@ -1,141 +1,52 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm mOHAMED RAFET</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
-  </a>
-  <a href="https://jacobcolvin.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
-  </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
-  </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+<p>Welcome to my page! </br> I'm Mohamed Elbahy, Backend Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> <b>Egypt</b>. </p>
+
+<h3>🚀 Things I code with</h3>
+
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+---
+
+<h3>🔥 About Me</h3>
+
+<ul>
+  <li>💻 Junior Backend Developer (Django & Node.js)</li>
+  <li>⚡ Passionate about building scalable web applications</li>
+  <li>📚 Always learning new technologies</li>
+  <li>🎯 Focused on clean code & problem solving</li>
+</ul>
+
+---
+
+<h3>📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+</p>
+
+---
+
+<h3>📫 Connect With Me</h3>
+
+<p>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
+---
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-
-<br>
-
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
-
-<table>
-  <tr>
-   <h2 align="left" id="macropower-tech">My Tech Stack</h2>
-
-> Tools, languages, and technologies I work with.
-
-<h2 align="left" id="macropower-tech">My Tech Stack</h2>
-
-> Tools, languages, and technologies I work with.
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="48" height="48" alt="Django" />
-      <br>Django
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="48" height="48" alt="UI/UX" />
-      <br>UI/UX
-    </td>
-  </tr>
-</table>
-
-<h2 align="left">Coding Activity</h2>
-
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.4 hr  ┤│                                                                                                   
-  2204.4 hr  ┼╯                                                                                                   
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
-<!-- links -->
-
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+⭐ <b>"Always learning, always building."</b>
