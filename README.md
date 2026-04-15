@@ -23,6 +23,8 @@
 <h3>🔥 About Me</h3>
 
 <ul>
+  <li>💻 Junior Mern Stack  Developer (React & Node.js)</li>
+   <li>💻 Junior FullStack Developer ( React & Django)</li>
   <li>💻 Junior Backend Developer (Django & Node.js)</li>
   <li>⚡ Passionate about building scalable web applications</li>
   <li>📚 Always learning new technologies</li>
@@ -34,7 +36,7 @@
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github.com/Mohamedrafat120120" />
 </p>
 
 ---
@@ -42,7 +44,7 @@
 <h3>📫 Connect With Me</h3>
 
 <p>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="www.linkedin.com/in/mohamed-elbahy0" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
