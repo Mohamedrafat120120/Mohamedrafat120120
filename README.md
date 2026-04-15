@@ -36,7 +36,7 @@
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github.com/Mohamedrafat120120" />
+  <img src="[https://github.com/Mohamedrafat120120](https://avatars.githubusercontent.com/u/115510106?s=400&u=5875114742786cd8120dcc18186e96d9f8a1816e&v=4)" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 <h3>📫 Connect With Me</h3>
 
 <p>
-  <a href="www.linkedin.com/in/mohamed-elbahy0" target="_blank">
+  <a href="[www.linkedin.com/in/mohamed-elbahy0](https://media.licdn.com/dms/image/v2/D4D35AQEGAPPJZNIJYg/profile-framedphoto-shrink_200_200/B4DZyew9JmIUAY-/0/1772190159694?e=1776855600&v=beta&t=3pyw2-usM9YA6dSUSZx3EaCmb8813ZShKV682xe78k4)" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
