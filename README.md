@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  Hi, I'm Mohamed Elbahy, Backend Developer from Egypt 🇪🇬
+  Hi, I'm Mohamed Elbahy, FullStack Developer from Egypt 📍🇪🇬
   <br><br>
   💻 Junior Software Engineer passionate about Backend Development  
   <br>
