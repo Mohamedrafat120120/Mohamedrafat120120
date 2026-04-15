@@ -89,9 +89,9 @@
       <br />
       <sub>Employee salary management & payroll calculation system</sub>
       <br /><br />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white" />
     </td>
     <td align="center" width="300">
       <a href="https://github.com/Mohamedrafat120120/Inventory-Management-API">
