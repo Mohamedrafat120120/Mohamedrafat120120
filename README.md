@@ -26,7 +26,7 @@
   <br>
   🎯 Focused on clean code & problem solving  
   <br>
-  📫 Reach me: <b>your@email.com</b>
+  📫 Reach me: <b>mohamedelbahy10@gmail.com</b>
 </p>
 
 <hr>
