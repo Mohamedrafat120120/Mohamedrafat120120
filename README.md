@@ -45,6 +45,10 @@
 
 > Tools, languages, and technologies I work with.
 
+<h2 align="left" id="macropower-tech">My Tech Stack</h2>
+
+> Tools, languages, and technologies I work with.
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -68,7 +72,35 @@
       <br>Django
     </td>
   </tr>
-</table>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="48" height="48" alt="UI/UX" />
+      <br>UI/UX
+    </td>
   </tr>
 </table>
 
