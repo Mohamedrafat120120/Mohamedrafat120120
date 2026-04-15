@@ -31,21 +31,23 @@
 
 <hr>
 
-<h2 align="center">🔥 Tech Stack 🔥</h2>
+
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Django" height="25" src="images/django.png"></code>
+  <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
+  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS3" height="25" src="images/css.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="Docker" height="25" src="images/docker.svg"></code>
+  <code><img title="Linux" height="25" src="images/linux.svg"></code>
+
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
 </p>
 
 <hr>
